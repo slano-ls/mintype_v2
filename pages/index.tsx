@@ -59,15 +59,15 @@ const Home: NextPage = () => {
 
 const AppHead = (
   <Head>
-    <title> cybertype </title>
+    <title> minTYPE </title>
     <meta name="theme-color" content="#171212" />
     <meta
       name="description"
-      content="Fast and Minimal Typing App - Improve your typing speed."
+      content="An Elegant and Minimal Typing Tool to Practice Your Typing Speed"
     />
     <meta
       name="keywords"
-      content="cybertype, typing app, practice typing, simple typing app, improve typing speed"
+      content="minTYPE, typing app, practice typing, simple typing app, improve typing speed"
     />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   </Head>
