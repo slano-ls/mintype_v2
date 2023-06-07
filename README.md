@@ -46,8 +46,8 @@
 
 <div align="center">
   <sub>The little framework that could. Built with ❤︎ by
-  <a href="https://twitter.com/yoshuawuyts">Yoshua Wuyts</a> and
-  <a href="https://github.com/choojs/choo/graphs/contributors">
+  <a href="https://slano-ls.github.io">Saihaj Law</a> and
+  <a href="https://github.com/slano-ls/mintype_v2/graphs/contributors">
     contributors
   </a>
 </div>
