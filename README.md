@@ -1,4 +1,4 @@
-
+![image](mintype_v2.png)
 <h1 align="center">MinType</h1>
 
 <div align="center">
