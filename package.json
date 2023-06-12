@@ -44,6 +44,7 @@
     "prettier": "^2.7.1",
     "pretty-quick": "^3.1.3",
     "sass": "^1.55.0",
+    "typedoc": "^0.24.8",
     "typescript": "4.8.4"
   },
   "description": "A Fast and Minimal Typing App.",
